@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Water Reminder</string>
+    <string name="minute15">15 Minute</string>
+    <string name="minute30">30 Minute</string>
+    <string name="minute60">60 Minute</string>
+    <string name="whenRemeber">When do you want to remember</string>
+    <string name="setRemeber">Set reminder</string>
+    <string name="itsWaterTime">It\'s time to drink water! Don\'t forget to drink water</string>
+
+
+
+
+
+</resources>

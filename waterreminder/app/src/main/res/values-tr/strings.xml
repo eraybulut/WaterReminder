@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Su Hatırlatıcı</string>
+    <string name="minute15">15 Dakika</string>
+    <string name="minute30">30 Dakika</string>
+    <string name="minute60">60 Dakika</string>
+    <string name="whenRemeber">Ne zaman hatırlamak istersin</string>
+    <string name="setRemeber">Hatırlatıcı kur</string>
+    <string name="itsWaterTime">Su içme zamanı geldi ! Su içmeyi unutma </string>
+
+
+
+
+
+</resources>
