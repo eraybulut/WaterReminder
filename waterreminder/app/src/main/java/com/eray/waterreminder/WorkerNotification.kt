@@ -15,10 +15,10 @@ class WorkerNotification(context: Context,workerParameters: WorkerParameters):Wo
 
     override fun doWork(): Result {
 
-        bildirimOlustur()
+        sendNotification()
         return Result.success()
     }
-    fun bildirimOlustur(){
+    fun sendNotification(){
 
         val builder:NotificationCompat.Builder
         val bildirimYoneticisi=applicationContext.getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
